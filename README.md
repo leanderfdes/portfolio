@@ -4,8 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-leanderfdes-181717?style=for-the-badge&logo=github)](https://github.com/leanderfdes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leander%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/leanderfdes)
 
-Welcome to my personal **Portfolio Web App** built with **Streamlit** 🎨  
-It showcases my projects, technical skills, and background as a **Computer Engineer**.
+A personal portfolio showcasing my journey as a Computer Engineer, Full Stack Developer, and AI Application Engineer, featuring real-world projects, technical skills, and deployed applications.
 
 ---
 
@@ -14,34 +13,73 @@ It showcases my projects, technical skills, and background as a **Computer Engin
 
 ---
 
-## 👨‍💻 About Me
-Hi there! I'm **Leander Fernandes**, a passionate **Computer Engineering Graduate** who loves turning ideas into digital solutions.  
-I specialize in **AI-based systems**, **full-stack web development**, and **data analytics**.
+👨‍💻 About Me
 
-💡 I enjoy working with:
-- MERN Stack (MongoDB, Express, React, Node.js)
-- Python (Flask, Streamlit, Machine Learning)
-- Cloud Deployment (Netlify, Streamlit Cloud)
-- Git, APIs, and Automation tools
+Hi! I’m Leander Fernandes, a Computer Engineering graduate who enjoys turning ideas into clean, practical, and scalable digital solutions.
 
----
+I work at the intersection of AI-powered systems and full-stack web development, with a strong focus on building real-world applications rather than just demos. I enjoy designing intuitive user interfaces, developing reliable backends, and integrating AI models into modern web products.
 
-## 🛠️ Tech Stack
-| Category | Technologies |
-|-----------|--------------|
-| **Frontend** | Streamlit, React, HTML, CSS, Tailwind |
-| **Backend** | Python, Flask, Node.js |
-| **Database** | MongoDB, MySQL |
-| **Tools & Others** | Git, VS Code, Netlify, Streamlit Cloud |
+I’m constantly learning, experimenting, and improving — especially in areas like AI application engineering, backend systems, and cloud deployments.
+
+💡 What I Enjoy Working With
+
+🌐 Full-Stack Development — MERN Stack (MongoDB, Express, React, Node.js)
+
+🤖 AI & Python — Machine Learning basics, Flask, Streamlit, LLM-powered apps
+
+☁️ Cloud & Deployment — Netlify, Vercel, Streamlit Cloud, Render
+
+⚙️ Developer Tools — Git, REST APIs, automation, debugging & logging
 
 ---
 
-## 💼 Featured Projects
+🛠️ Tech Stack
+| Category          | Technologies                                           |
+| ----------------- | ------------------------------------------------------ |
+| **Frontend**      | Streamlit, React, HTML, CSS, Tailwind CSS              |
+| **Backend**       | Python, FastAPI, Flask, Node.js                        |
+| **Databases**     | MongoDB, MySQL                                         |
+| **AI & LLMs**     | Google Gemini API, Prompt Engineering                  |
+| **Tools & Cloud** | Git, GitHub, VS Code, Netlify, Vercel, Streamlit Cloud |
 
-### 🔹 [To-Do List App](https://todo2list.netlify.app/)
-📝 A responsive and minimal **To-Do List** built using HTML, CSS, and JavaScript.  
-Helps users organize daily tasks efficiently.  
-**Live:** [todo2list.netlify.app](https://todo2list.netlify.app/)
+---
+
+💼 Featured Projects
+
+🔹 LLM Playground — AI Web Application
+
+An industry-style AI playground that allows users to interact with a Large Language Model via a modern UI.
+
+FastAPI backend with structured logging and error handling
+
+Gemini LLM integration
+
+React + Tailwind frontend
+
+Deployed using Vercel & Render
+
+🔗 Live Demo: https://llm-playground-fastapi-gemini-nffi-ou4twwlmk.vercel.app/
+
+
+
+🔹 To-Do List App
+
+📝 A responsive and minimal to-do list built using HTML, CSS, and JavaScript.
+Helps users organize daily tasks efficiently with a clean UI.
+
+🔗 Live: https://todo2list.netlify.app/
+
+---
+
+🎯 What Defines My Work
+
+Clean and readable code
+
+Practical, production-oriented mindset
+
+Focus on usability and performance
+
+Strong interest in AI-driven applications
 
 ---
 
